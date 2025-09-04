@@ -13,4 +13,5 @@ This is a simple frontend website built using **HTML, CSS, and JavaScript**.
 - JavaScript
 
 ## Live Demo
-👉 [Click here to view the website](https://github.com/asrising374-lgtm/Personal-porfolio-site.git
+👉 [View the live site](https://asrising374-lgtm.github.io/Personal-porfolio-site/)
+
